@@ -4,9 +4,17 @@
 <title>Page Title</title>
 </head>
 <body>
-  <form method="POST" action="/">
-    <input type="text" placeholder="username"/>
-    <input type="text" placeholder="password"/>
+  <form method="POST" action="/login">
+    Login
+    <input type="text" placeholder="username" name="username"/>
+    <input type="text" placeholder="password" name="password"/>
+    <input type="submit"/>
+  </form>
+  <br />
+  <form method="POST" action="/signup">
+    Signup
+    <input type="text" placeholder="username" name="username"/>
+    <input type="text" placeholder="password" name="password"/>
     <input type="submit"/>
   </form>
 
