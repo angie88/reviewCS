@@ -1,0 +1,19 @@
+{
+  "name": "review-codesmith",
+  "version": "1.0.0",
+  "description": "reviewing for assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angie88/reviewCS.git"
+  },
+  "author": "Angie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angie88/reviewCS/issues"
+  },
+  "homepage": "https://github.com/angie88/reviewCS#readme"
+}
